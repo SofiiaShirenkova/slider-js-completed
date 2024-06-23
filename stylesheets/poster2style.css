@@ -1,0 +1,3 @@
+@import "reset.css";/* сбрoc настроек браузера */
+@import "poster2content.css"; /* контент / содержимое  */
+@import "poster2adaptive.css";/* адаптивность */

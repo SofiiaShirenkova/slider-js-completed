@@ -1,0 +1,3 @@
+@import "reset.css";/* сбрoc настроек браузера */
+@import "sliderContent.css"; /* контент / содержимое  */
+@import "sliderAdaptive.css";/* адаптивность */
